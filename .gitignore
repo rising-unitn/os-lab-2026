@@ -317,6 +317,7 @@ TSWLatexianTemp*
 #*Notes.bib
 exercises/*
 !exercises/e-p*
+!exercises/e-s*
 samples/*
 !samples/l02
 !samples/l03
