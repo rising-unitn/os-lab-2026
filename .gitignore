@@ -321,3 +321,4 @@ exercises/*
 samples/*
 !samples/l02
 !samples/l03
+!samples/l04
