@@ -318,10 +318,9 @@ TSWLatexianTemp*
 exercises/*
 !exercises/e-p*
 !exercises/e-s*
-!exercises/e-t1
-!exercises/e-t2
-!exercises/e-t3
+!exercises/e-t*
 samples/*
 !samples/l02
 !samples/l03
 !samples/l04
+!samples/l05
