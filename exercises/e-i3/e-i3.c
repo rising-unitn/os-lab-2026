@@ -3,7 +3,7 @@
 #include <unistd.h>
 #include <string.h>
 #include <sys/wait.h>
-
+#include <stdlib.h>
 int main(void) {
     int fd = open("shared.txt",
                   O_WRONLY | O_CREAT | O_TRUNC, 0644);
@@ -17,7 +17,7 @@ if (pid == 0) {
               "Child  PID=%d\n", getpid());
     write(fd, buf, n);
     close(fd);
-    _exit(0);
+    exit(0);
 }
 int n = snprintf(buf, sizeof(buf),
           "Parent PID=%d\n", getpid());
