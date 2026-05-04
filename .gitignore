@@ -9,6 +9,7 @@ _master/code/admin/repo-gitignore
 a.out
 *.o
 old/
+_master/code/target
 # _master/code/admin/linux_demo
 # divina_commedia.txt
 
@@ -320,12 +321,11 @@ exercises/*
 !exercises/e-s*
 !exercises/e-t*
 !exercises/e-i*
-!exercises/e-c1
-!exercises/e-c2
-!exercises/e-c3
+!exercises/e-c*
 samples/*
 !samples/l02
 !samples/l03
 !samples/l04
 !samples/l05
 !samples/l06
+!samples/l07
