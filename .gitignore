@@ -323,6 +323,8 @@ exercises/*
 !exercises/e-i*
 !exercises/e-c*
 !exercises/e-b*
+!exercises/e-f1
+!exercises/e-f2
 samples/*
 !samples/l02
 !samples/l03
