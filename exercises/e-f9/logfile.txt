@@ -1,0 +1,7 @@
+INFORMATION boot sequence started
+INFORMATION network online
+WARNING disk usage above 80%
+ERROR failed login attempt
+INFORMATION service restarted
+WARNING packet loss detected
+ERROR database timeout

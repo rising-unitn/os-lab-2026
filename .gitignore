@@ -1,5 +1,7 @@
 .*~undo-tree~
 .DS_Store
+Teoria/other/
+Teoria/figures/
 
 *.tex
 !colors.tex
@@ -9,7 +11,7 @@ _master/code/admin/repo-gitignore
 a.out
 *.o
 old/
-_master/code/target
+target
 # _master/code/admin/linux_demo
 # divina_commedia.txt
 
@@ -323,8 +325,7 @@ exercises/*
 !exercises/e-i*
 !exercises/e-c*
 !exercises/e-b*
-!exercises/e-f1
-!exercises/e-f2
+!exercises/e-f*
 samples/*
 !samples/l02
 !samples/l03
